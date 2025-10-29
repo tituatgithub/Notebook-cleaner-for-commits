@@ -1,0 +1,5 @@
+# JupyterClean Dependencies
+# Python 3.7+
+
+jupyter>=1.0.0
+nbconvert>=7.0.0

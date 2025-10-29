@@ -7,10 +7,8 @@ A lightweight Python tool to clean Jupyter notebooks before committing to versio
 ## 🎯 The Problem
 
 Ever seen this when pushing notebooks to GitHub?
+<img width="710" height="297" alt="image" src="https://github.com/user-attachments/assets/960cfbe8-c06e-4c97-adb6-931c2b65fc27" />
 
-<!-- TODO: Add screenshot of the permission/metadata error here -->
-![Notebook Metadata Issue](<img width="636" height="270" alt="image" src="https://github.com/user-attachments/assets/ba8d3bad-69f4-4840-9bc8-cb88ad404cc6" />
-)
 
 Jupyter notebooks accumulate metadata, execution counts, and outputs that:
 - ❌ Create massive, noisy git diffs

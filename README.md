@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with [nbconvert](https://nbconvert.readthedocs.io/)
 - Inspired by the need for cleaner notebooks in version control
